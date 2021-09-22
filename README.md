@@ -1,2 +1,2 @@
-# java-basico-curso-em-video
-Práticas referentes ao curso de Java Básico, do Curso em Vídeo.
+# Java Básico - Curso em Vídeo
+Práticas referentes ao curso de Java Básico, do Curso em Vídeo, utilizando JavaFX e Java Swing.
